@@ -84,4 +84,8 @@ Thank you for reading.
 
 ---
 
+## 📄 License
+
+See [`LICENSE.md`](LICENSE.md) for usage rights and attribution rules.
+
 
