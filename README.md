@@ -4,7 +4,7 @@
 *Founder of NeuroPrompting*
 
 ---
-
+![NeuroPrompting Banner](NeuroPrompting.png)
 ## 🧠 Introduction
 
 Have you ever found yourself writing a sentence, and as you reach the end of a line, you accidentally repeat the last word on the next line? Or when entering a 4-digit UPI PIN, you sometimes mistype the last digit as something personally meaningful, like your birth year?
