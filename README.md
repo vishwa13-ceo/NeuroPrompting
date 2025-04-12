@@ -84,12 +84,4 @@ Thank you for reading.
 
 ---
 
-*Follow me on [LinkedIn](#) and [Medium](#) for future updates*  
-*#NeuroPrompting #PromptEngineering #CognitiveAI #AIThinking*
-
----
-
-## 📸 Banner Image
-
-![NeuroPrompting Banner](neuroprompting_banner.png)
 
