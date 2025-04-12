@@ -36,7 +36,7 @@ You **may not**:
 
 When sharing or referencing, please credit:
 
-**“NeuroPrompting, a term coined by Vishwa Hansnur – GitHub: [your GitHub repo link]”**
+**“NeuroPrompting, a term coined by Vishwa Hansnur”**
 
 ---
 
